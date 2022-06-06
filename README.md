@@ -3,7 +3,7 @@ Uma calculadora simples, para operações básicas de matemática.
 
 ## Desenvolvimento :rocket:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com o seguinte conhecimento:
 
 * HTML
 
